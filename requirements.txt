@@ -1,0 +1,3 @@
+facebook-business==11.0.0
+pandas
+requests
