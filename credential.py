@@ -1,6 +1,6 @@
-my_app_id = '366833578216920'
-my_app_secret = '926b97ae538352327ad74c25ad8b3a5e'
-my_access_token = 'EAAFNohkfDdgBAGp9xTjpseTzXCA2UP5y6Se9ZCb0mZBGST8HJZA8udNH8vAku1LRFdT5U4xp2zmxzFd3bgD5g8uqyl9gBjyMxx5umgDYZCga5ZCQE7i2BfwMXzRf4MHlSMKoVz063kLWEcd0O4CLwcEpUltrfh3vGlSZA3qBf9Ccm2BzFMTGSL'
+my_app_id = '1234'
+my_app_secret = 'abc1234'
+my_access_token = 'loremimpsum1234567754545415515'
 
 
 account_name = {
